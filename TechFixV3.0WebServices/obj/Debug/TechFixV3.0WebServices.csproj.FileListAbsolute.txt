@@ -1,0 +1,177 @@
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.dll.config
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.pdb
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\csc.exe
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\csc.exe.config
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\csc.rsp
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\csi.exe
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\csi.exe.config
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\csi.rsp
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Console.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\vbc.exe
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\vbc.exe.config
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\vbc.rsp
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.csproj.AssemblyReference.cache
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.csproj.CoreCompileInputs.cache
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\obj\Debug\TechFixV.34FB2508.Up2Date
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.dll
+E:\ASP.NET\QuoteSync Procurement Platform\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.pdb
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.dll.config
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.pdb
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csc.exe
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csc.exe.config
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csc.rsp
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csi.exe
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csi.exe.config
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csi.rsp
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.AppContext.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Console.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.Compression.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Net.Http.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Net.Sockets.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.ValueTuple.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.XPath.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\vbc.exe
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\vbc.exe.config
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\vbc.rsp
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\VBCSCompiler.exe
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.csproj.AssemblyReference.cache
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.csproj.CoreCompileInputs.cache
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV.34FB2508.Up2Date
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.dll
+E:\ASP.NET\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.pdb
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.dll.config
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\TechFixV3.0WebServices.pdb
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csc.exe
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csc.exe.config
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csc.rsp
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csi.exe
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csi.exe.config
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\csi.rsp
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.AppContext.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Console.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Net.Http.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\vbc.exe
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\vbc.exe.config
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\vbc.rsp
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.csproj.AssemblyReference.cache
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.csproj.CoreCompileInputs.cache
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV.34FB2508.Up2Date
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.dll
+C:\Users\Emethra\Desktop\TechFixV3.0\TechFixV3.0WebServices\obj\Debug\TechFixV3.0WebServices.pdb

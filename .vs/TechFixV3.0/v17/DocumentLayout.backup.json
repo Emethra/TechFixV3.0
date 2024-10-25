@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0webservices\\authenticationservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|solutionrelative:techfixv3.0webservices\\authenticationservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\manageusers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\admin\\manageinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\manageinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\content\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\manageinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\manageinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\admin\\ordersummary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\ordersummary.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\manageinventory.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\manageinventory.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0webservices\\ordersservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|solutionrelative:techfixv3.0webservices\\ordersservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0webservices\\inventoryservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|solutionrelative:techfixv3.0webservices\\inventoryservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\supplier\\ordermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\supplier\\ordermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\supplier\\ordermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\supplier\\ordermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\adminmaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\adminmaster.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\admin\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\admin\\ordersummary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\ordersummary.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0webservices\\reportsservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|solutionrelative:techfixv3.0webservices\\reportsservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0client\\admin\\manageusers.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\admin\\manageusers.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|c:\\users\\emethra\\desktop\\techfixv3.0\\techfixv3.0webservices\\userservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F99E5A-476B-4CA5-96B6-B47FAD4906B9}|TechFixV3.0WebServices\\TechFixV3.0WebServices.csproj|solutionrelative:techfixv3.0webservices\\userservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\supplier\\supplierdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\supplier\\supplierdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\techfixv3.0client\\supplier\\salesreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C3C5A6-4D92-4514-B89B-5FDFB2FF0B0E}|TechFixV3.0Client\\TechFixV3.0Client.csproj|solutionrelative:techfixv3.0client\\supplier\\salesreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageInventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageInventory.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\ManageInventory.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageInventory.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\ManageInventory.aspx.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwGMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:16:08.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Content\\admin.css",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Content\\admin.css",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Content\\admin.css",
+              "RelativeToolTip": "TechFixV3.0Client\\Content\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T16:53:18.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageUsers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageUsers.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\ManageUsers.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageUsers.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\ManageUsers.aspx.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwEwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:11:35.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Login.aspx",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Login.aspx",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Login.aspx",
+              "RelativeToolTip": "TechFixV3.0Client\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-21T16:14:13.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Login.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:09:03.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Login.aspx.designer.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:51:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\AuthenticationService.asmx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0WebServices\\AuthenticationService.asmx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\AuthenticationService.asmx.cs",
+              "RelativeToolTip": "TechFixV3.0WebServices\\AuthenticationService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:51:37.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageInventory.aspx",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageInventory.aspx",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\ManageInventory.aspx",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageInventory.aspx",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\ManageInventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-22T16:56:08.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageUsers.aspx",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageUsers.aspx",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\ManageUsers.aspx",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageUsers.aspx",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\ManageUsers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-22T17:09:07.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderSummary.aspx",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\OrderSummary.aspx",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\OrderSummary.aspx",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\OrderSummary.aspx",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\OrderSummary.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-30T03:53:29.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageInventory.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageInventory.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\ManageInventory.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageInventory.aspx.designer.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\ManageInventory.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:56:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\OrdersService.asmx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0WebServices\\OrdersService.asmx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\OrdersService.asmx.cs",
+              "RelativeToolTip": "TechFixV3.0WebServices\\OrdersService.asmx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:45:15.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\InventoryService.asmx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0WebServices\\InventoryService.asmx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\InventoryService.asmx.cs",
+              "RelativeToolTip": "TechFixV3.0WebServices\\InventoryService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:01:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Content\\login.css",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Content\\login.css",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Content\\login.css",
+              "RelativeToolTip": "TechFixV3.0Client\\Content\\login.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T07:56:20.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\OrderManagement.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Supplier\\OrderManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\OrderManagement.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Supplier\\OrderManagement.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:23:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminMaster.master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminMaster.master.designer.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\AdminMaster.master.designer.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminMaster.master.designer.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\AdminMaster.master.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:22:21.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminMaster.master.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminMaster.master.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\AdminMaster.master.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminMaster.master.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\AdminMaster.master.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:22:09.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\OrderManagement.aspx",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Supplier\\OrderManagement.aspx",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\OrderManagement.aspx",
+              "RelativeToolTip": "TechFixV3.0Client\\Supplier\\OrderManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T07:45:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:15:50.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDashboard.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminDashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\AdminDashboard.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminDashboard.aspx.designer.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\AdminDashboard.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:15:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderSummary.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\OrderSummary.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\OrderSummary.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\OrderSummary.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\OrderSummary.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:23:33.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\AdminDashboard.aspx",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\AdminDashboard.aspx",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-23T05:32:35.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageUsers.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageUsers.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Admin\\ManageUsers.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Admin\\ManageUsers.aspx.designer.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Admin\\ManageUsers.aspx.designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:03:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportsService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\ReportsService.asmx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0WebServices\\ReportsService.asmx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\ReportsService.asmx.cs",
+              "RelativeToolTip": "TechFixV3.0WebServices\\ReportsService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:47:58.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\UserService.asmx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0WebServices\\UserService.asmx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0WebServices\\UserService.asmx.cs",
+              "RelativeToolTip": "TechFixV3.0WebServices\\UserService.asmx.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:55:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SupplierDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\SupplierDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Supplier\\SupplierDashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\SupplierDashboard.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Supplier\\SupplierDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:26:18.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SalesReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\SalesReport.aspx.cs",
+              "RelativeDocumentMoniker": "TechFixV3.0Client\\Supplier\\SalesReport.aspx.cs",
+              "ToolTip": "C:\\Users\\Emethra\\Desktop\\TechFixV3.0\\TechFixV3.0Client\\Supplier\\SalesReport.aspx.cs",
+              "RelativeToolTip": "TechFixV3.0Client\\Supplier\\SalesReport.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:47:46.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
